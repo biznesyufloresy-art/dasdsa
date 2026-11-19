@@ -1,0 +1,13 @@
+{
+  "name": "vynx-menu-store",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "check": "node --check api/orders.js && node --check api/admin/orders.js && node --check api/admin/update.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.0"
+  }
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "starter",
+    "name": "VYNX Starter",
+    "subtitle": "Dostęp na 7 dni",
+    "tag": "START",
+    "price": "Cena po kontakcie",
+    "features": [
+      "Wsparcie techniczne",
+      "Aktualizacje produktu",
+      "Instrukcja instalacji"
+    ]
+  },
+  {
+    "id": "premium",
+    "name": "VYNX Premium",
+    "subtitle": "Dostęp na 30 dni",
+    "tag": "POPULARNE",
+    "price": "Cena po kontakcie",
+    "features": [
+      "Wsparcie techniczne",
+      "Aktualizacje produktu",
+      "Priorytetowa pomoc"
+    ]
+  },
+  {
+    "id": "lifetime",
+    "name": "VYNX Lifetime",
+    "subtitle": "Dostęp bez limitu czasu",
+    "tag": "VIP",
+    "price": "Cena po kontakcie",
+    "features": [
+      "Wsparcie techniczne",
+      "Aktualizacje produktu",
+      "Strefa VIP"
+    ]
+  }
+]
